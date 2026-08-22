@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Mechanical Engineering student at Arizona State University with an interest in aerospace engineering, aviation, and mechanical design.
+I'm pursuing a B.S. in Mechanical Engineering at Arizona State University (Expected Graduation: 2030), with plans to specialize in aerospace engineering and aviation.
 
 I'm currently building my engineering skills through coursework, personal projects, and hands-on experience with CAD, programming, and manufacturing.
 
@@ -26,11 +26,40 @@ I'm currently building my engineering skills through coursework, personal projec
 - Gain hands-on experience through engineering clubs
 - Land an aerospace internship
 
+--
+
+## Current Focus
+
+- Learning SolidWorks
+- Building my engineering portfolio
+- Preparing for engineering clubs at ASU
+- Exploring aerospace and aircraft design
+
 ---
+
+## 🛠️ Skills & Tools
+
+**Engineering**
+- Autodesk Fusion 360
+- Engineering Design
+
+**Programming**
+
+
+**Other**
+- Microsoft Excel
+- Git & GitHub
+
 
 ## Featured Projects
 
-Coming soon!
+I'm currently building my engineering portfolio. Upcoming projects include:
+
+- Engineering Portfolio Website
+- SolidWorks CAD Models
+- MATLAB Engineering Projects
+- Arduino Projects
+- Personal Aerospace Projects
 
 ---
 

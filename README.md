@@ -19,21 +19,21 @@ I'm currently building my engineering skills through coursework, personal projec
 
 ---
 
-## Current Goals
-
-- Build an engineering project portfolio
-- Improve my CAD and design skills
-- Gain hands-on experience through engineering clubs
-- Land an aerospace internship
-
---
-
 ## Current Focus
 
 - Learning SolidWorks
 - Building my engineering portfolio
 - Preparing for engineering clubs at ASU
 - Exploring aerospace and aircraft design
+
+---
+
+## Current Goals
+
+- Build an engineering project portfolio
+- Improve my CAD and design skills
+- Gain hands-on experience through engineering clubs
+- Land an aerospace/mechanical engineering internship
 
 ---
 
@@ -45,11 +45,11 @@ I'm currently building my engineering skills through coursework, personal projec
 
 **Programming**
 
-
 **Other**
 - Microsoft Excel
 - Git & GitHub
 
+---
 
 ## Featured Projects
 

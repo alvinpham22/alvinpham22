@@ -10,13 +10,12 @@ I'm currently building my engineering skills through coursework, personal projec
 
 ## Interests
 
-- ✈️ Aerospace Engineering
-- 🛩️ Aviation
-- ⚙️ Mechanical Design
-- 📐 CAD (SolidWorks)
-- 🤖 Arduino & Embedded Systems
-- 📊 MATLAB
-- 🐍 Python
+- Aerospace Engineering
+- Aviation
+- Mechanical Design
+- CAD (SolidWorks)
+- Arduino & Embedded Systems
+- MATLAB
 
 ---
 

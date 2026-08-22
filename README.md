@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Alvin 👋
 
-<!--
-**alvinpham22/alvinpham22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Mechanical Engineering student at Arizona State University with an interest in aerospace engineering, aviation, and mechanical design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently building my engineering skills through coursework, personal projects, and hands-on experience with CAD, programming, and manufacturing.
+
+---
+
+## Interests
+
+- ✈️ Aerospace Engineering
+- 🛩️ Aviation
+- ⚙️ Mechanical Design
+- 📐 CAD (SolidWorks)
+- 🤖 Arduino & Embedded Systems
+- 📊 MATLAB
+- 🐍 Python
+
+---
+
+## Current Goals
+
+- Build an engineering project portfolio
+- Improve my CAD and design skills
+- Gain hands-on experience through engineering clubs
+- Land an aerospace internship
+
+---
+
+## Featured Projects
+
+Coming soon!
+
+---
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/alvinnphamm

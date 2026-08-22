@@ -37,7 +37,7 @@ I'm currently building my engineering skills through coursework, personal projec
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 **Engineering**
 - Autodesk Fusion 360

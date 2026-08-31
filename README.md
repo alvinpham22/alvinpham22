@@ -10,7 +10,7 @@ I'm currently building my engineering skills through coursework, personal projec
 
 ## Interests
 
-- Aerospace Engineering
+- Aerospace
 - Aviation
 - Mechanical Design
 - CAD (SolidWorks)

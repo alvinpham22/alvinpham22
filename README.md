@@ -47,7 +47,7 @@ I'm currently building my engineering skills through coursework, personal projec
 
 **Other**
 - Microsoft Excel
-- Git & GitHub
+- GitHub (Learning)
 
 ---
 

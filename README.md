@@ -1,4 +1,4 @@
-# Hi, I'm Alvin 👋
+# Hi, I'm Alvin
 
 ## About Me
 
